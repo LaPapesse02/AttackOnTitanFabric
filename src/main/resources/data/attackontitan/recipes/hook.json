@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iiA",
+        " ti",
+        "s i"
+    ],
+    "key": {
+        "i": {"item": "minecraft:iron_ingot"},
+        "A": {"item": "minecraft:arrow"},
+        "t": {"item": "minecraft:tripwire_hook"},
+        "s": {"item": "minecraft:string"}
+    },
+    "result": {
+        "item": "attackontitan:hook",
+        "count": 1
+    }
+}

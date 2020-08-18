@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "attackontitan",
+  "version": "${version}",
+
+  "name": "Attack on Titan Mod",
+  "description": "Mod adding various items inspired by the anime and manga Attack on Titan.",
+  "authors": [
+    "LaPapesse02 (La_Papesse in minecraft)"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/LaPapesse02/AttackOnTitanFabric"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/attackontitan/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.lapapesse02.attackontitanfabric.AttackOnTitanMod"
+    ]
+  },
+  "mixins": [
+    "attackontitan.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
