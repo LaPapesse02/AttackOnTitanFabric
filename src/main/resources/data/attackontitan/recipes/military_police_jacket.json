@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:leather_chestplate"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        {
+            "item": "minecraft:cyan_dye"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "attackontitan:military_police_jacket",
+        "count": 1
+    },
+    "group": "attackontitan:reinforced_jacket"
+}

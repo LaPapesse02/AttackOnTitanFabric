@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "attackontitan:item/ultrahard_steel_blade"
+    }
+}

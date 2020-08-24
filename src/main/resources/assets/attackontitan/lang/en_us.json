@@ -1,4 +1,16 @@
 {
     "itemGroup.attackontitan.attackontitan": "Attack on Titan",
-    "item.attackontitan.hook": "Hook"
+
+    "item.attackontitan.hook": "Hook",
+    "item.attackontitan.ultrahard_steel": "UltraHard Steel",
+    "item.attackontitan.ultrahard_steel_blade": "UltraHard Steel Blade",
+    "item.attackontitan.sword_grip": "Sword Grip",
+
+    "item.attackontitan.survey_corps_jacket": "Survey Corps Jacket",
+    "item.attackontitan.garrison_jacket": "Garrison Jacket",
+    "item.attackontitan.military_police_jacket": "Military Police Brigade Jacket",
+    "item.attackontitan.reinforced_leggings": "Reinforced Leggings",
+    "item.attackontitan.reinforced_boots": "Reinforced Boots",
+
+    "item.attackontitan.ultrahard_steel_sword": "UltraHard Steel Sword"
 }

@@ -1,4 +1,16 @@
 {
     "itemGroup.attackontitan.attackontitan": "Attack on Titan",
-    "item.attackontitan.hook": "Gancio"
+
+    "item.attackontitan.hook": "Gancio",
+    "item.attackontitan.ultrahard_steel": "Acciaio Ultraresistente",
+    "item.attackontitan.ultrahard_steel_blade": "Lama di Acciaio Ultraresistente",
+    "item.attackontitan.sword_grip": "Elsa della spada",
+
+    "item.attackontitan.survey_corps_jacket": "Giacca del Corpo di Ricerca",
+    "item.attackontitan.garrison_jacket": "Giacca del Corpo di Guarnigione",
+    "item.attackontitan.military_police_jacket": "Giacca del Corpo di Gendarmeria",
+    "item.attackontitan.reinforced_leggings": "Leggings Rinforzati",
+    "item.attackontitan.reinforced_boots": "Stivali Rinforzati",
+
+    "item.attackontitan.ultrahard_steel_sword": "Spada di Acciaio Ultraresistente"
 }
