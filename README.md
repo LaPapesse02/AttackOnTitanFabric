@@ -1,6 +1,6 @@
 # AttackOnTitanFabric
 
-This mod is inspired from the popular anime and manga Attack On Titan
+This mod is inspired from the popular anime and manga Attack On Titan, requires Fabric API
 
 Credit for the textures of the armor goes to https://www.planetminecraft.com/member/jillsting/
 
